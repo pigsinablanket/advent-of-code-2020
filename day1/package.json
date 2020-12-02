@@ -1,0 +1,14 @@
+{
+  "name": "day1",
+  "version": "0.0.1",
+  "author": "Daniel Reimer <daniel.k.reimer97@gmail.com>",
+  "synopsis": "Day 1 of advent of code",
+  "category": [ "Programming" ],
+  "license": "BSD-3-Clause",
+  "licenseFile": "LICENSE",
+  "dependencies": {
+  },
+  "executable": {
+      "name": "day1"
+  }
+}
